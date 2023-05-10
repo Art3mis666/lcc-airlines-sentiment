@@ -1,0 +1,2 @@
+Tanggal wisata: (.*)
+rating bubble_([^"]*)
